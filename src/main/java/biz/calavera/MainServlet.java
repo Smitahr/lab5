@@ -15,9 +15,9 @@ public class MainServlet extends HttpServlet {
 	  {
 	      // Edit this message, save the file, and rebuild with Ant
               // to see it reflected on the Web page at http://localhost:8081/MainServlet
-	      message = "Team 2: This is a skeleton application2-- to explore the end to end Calavera delivery framework.";
+	      message = "Team 222: This is a skeleton application2-- to explore the end to end Calavera delivery framework.";
 	  }
-
+{
 	  public void doGet(HttpServletRequest request,
 	                    HttpServletResponse response)
 	            throws ServletException, IOException
