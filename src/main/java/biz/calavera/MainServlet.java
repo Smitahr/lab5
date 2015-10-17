@@ -30,7 +30,8 @@ public class MainServlet extends HttpServlet {
 
               Class1 oResp = new Class1(message);
 	      out.println(oResp.webMessage());
-
+	      out.println("\n2 + 5 = 7");
+	
 	  }
 
 	  public void destroy()
