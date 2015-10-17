@@ -18,5 +18,9 @@ public class Class1 {
               return "<h1>" + strMsg + "</h1>";
           }
 
+	public Double irrational()
+	{
+		return Math.sqrt(2);
+	}	
 
         }
